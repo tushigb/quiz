@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+
+    <string name="question1">Which keyword is used to declare a function?</string>
+    <string name="q1answer1">decl</string>
+    <string name="q1answer2">fun</string>
+    <string name="q1answer3">function</string>
+    <string name="question2">Which of the following are methods in the activity and fragment lifecycles? Select all that apply.</string>
+    <string name="q2answer1">onCreate()</string>
+    <string name="q2answer2">onDraw()</string>
+    <string name="q2answer3">onResume()</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_submit">Submit</string>
+</resources>
